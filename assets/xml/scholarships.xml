@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scholarships>
+    <statCat state="Maharashtra">
+        <scholar id="mh1">
+            <title>Government of India Post-Matric Scholarship.</title>
+            
+            <eligibility>
+                <elig>The parents/Guardian annual income shall be less than or equal to Rs. 2,50,000.</elig>
+                <elig>Student category shall belong to Scheduled caste or Navbouddha</elig>
+                <elig>Student shall belong to resident of Maharashtra</elig>
+                <elig>Student should be passes SSC/equivalent Matric</elig>
+                <elig>Failure: if student fail first time then should avail Exam fees & maintenance allowance. If fails second time in same class then he/she will not get any allowance and after two drops he will pass and go to next class then he will be eligible.</elig>
+                <elig>In case of student studying out of Maharashtra then same rules are applicable as per GOI.</elig>
+                <elig>Only 2 professional Courses are allowed.</elig>
+            </eligibility>
+            <docrec>
+                <doc>Income Certificate(Provided by Tahesildar)</doc>
+                <doc>Cast Certificate</doc>
+                <doc>Mark sheet for last appeared examination</doc>
+                <doc>Mark sheet for SSC or HSC</doc>
+                <doc>Father date Certificate(if required)</doc>
+                <doc>Gap & Self Declaration(if required)</doc>
+                <doc>Hostel Certificate (if required)</doc>
+                <doc>Husband Income Certificate(if girl is married)</doc>
+            </docrec>
+        </scholar>
+        <scholar id="mh2">
+            <title>Post-Matric Tuition Fee and Examination Fee (Freeship)</title>
+        
+            <eligibility>
+                <elig>The parents / Guardian annual income above Rs. 250000.to unlimited.</elig>
+                <elig>Student category should be Scheduled caste or Neo bouddhist</elig>
+                <elig>Student should be resident of Maharashtra</elig>
+                <elig>Student should be passes SSC/equivalent Matric.</elig>
+                <elig>Institute should be located in Maharashtra & shall be government recognized.</elig>
+                <elig>For Professional Courses student should admit through CAP round only</elig>
+                <elig>Only 1 Failure is allowed in whole curriculum.</elig>
+            </eligibility>
+            <docrec>
+                <doc>Income Certificate (Provided by Tahesildar).</doc>
+                <doc> Cast Certificate.</doc>
+                <doc>Cast Validity Certificate</doc>
+                <doc>Mark sheet for last appeared examination</doc>
+                <doc>Mark sheet for SSC or HSC</doc>
+                <doc>Hostel Certificate (if required)</doc>
+                <doc>CAP round allotment letter</doc>
+            </docrec>
+        </scholar>
+    </statCat>
+    
+</scholarships>
